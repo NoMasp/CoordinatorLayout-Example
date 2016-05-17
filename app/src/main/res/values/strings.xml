@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- strings -->
+    <string name="app_name">Coordinator</string>
+    <string name="quila_name">Ferarri</string>
+    <string name="quila_tagline">I love speed!</string>
+    <string name="quila_name2">Ferarri!</string>
+    <string name="lorem">
+
+        Ferrari S.p.A. is an Italian sports car manufacturer based in Maranello. Founded by Enzo Ferrari in 1939 as Auto Avio Costruzioni, the company built its first car in 1940. However, the company\'s inception as an auto manufacturer is usually recognized in 1947 when the first Ferrari-badged car was completed.
+
+        Ferrari is the world\'s most powerful brand according to Brand Finance. In May 2012 the 1962 Ferrari 250 GTO became the most expensive car in history, selling in a private transaction for \$38,115,000 to American communications magnate Craig McCaw.
+
+   </string>
+</resources>
